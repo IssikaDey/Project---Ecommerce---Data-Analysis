@@ -4,11 +4,17 @@ We will perform exploratory data analysis with python to get insight from the da
 
 **Table of Content:**
 
+
 •	Motivation
+
 •	Tools and Libraries Used
+
 •	Files
+
 •	Result
+
 •	Dataset Information
+
 •	Acknowledgements
 
 **Motivation :**
@@ -21,17 +27,6 @@ We have tried to answer the following Questions
 5.	From which country most guest come?
 6.	How Long People Stay in the hotel?
 7.	Which was the most booked accommodation type (Single, Couple, Family)?
-
-After that we made the predictive model to predict whether the booking will be cancelled or not
-We will:
-
-
-Perform the Feature Engineering to make new featuers
-Perform the Data Selection to select only relevant features
-Tranform the Data (Categorial to Numerical)
-Split the data (Train Test Split)
-Model the data (Fit the Data)
-And finally Evaluate our model
 
 **Tools and Libraries Used**
 
