@@ -28,7 +28,7 @@ We have tried to answer the following Questions
 6.	How Long People Stay in the hotel?
 7.	Which was the most booked accommodation type (Single, Couple, Family)?
 
-**Tools and Libraries Used**
+**Tools and Libraries Used : **
 
 We have used Python 3 to its following packages:
 
