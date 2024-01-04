@@ -3,6 +3,7 @@ This data set contains booking information for a city hotel and a resort hotel a
 We will perform exploratory data analysis with python to get insight from the data.
 
 **Table of Content:**
+
 •	Motivation
 •	Tools and Libraries Used
 •	Files
@@ -11,6 +12,7 @@ We will perform exploratory data analysis with python to get insight from the da
 •	Acknowledgements
 
 **Motivation :**
+
 We have tried to answer the following Questions
 1.	How Many Booking Were Cancelled?
 2.	What is the booking ratio between Resort Hotel and City Hotel?
@@ -23,6 +25,7 @@ We have tried to answer the following Questions
 After that we made the predictive model to predict whether the booking will be cancelled or not
 We will:
 
+
 Perform the Feature Engineering to make new featuers
 Perform the Data Selection to select only relevant features
 Tranform the Data (Categorial to Numerical)
@@ -31,9 +34,12 @@ Model the data (Fit the Data)
 And finally Evaluate our model
 
 **Tools and Libraries Used**
+
 We have used Python 3 to its following packages:
-Pandas
-Matplotlib
-Seaborn
-Sklearn
-pycountry
+
+1.	Pandas
+2.	Matplotlib
+3.	Seaborn
+4.	Sklearn
+5.	pycountry
+
