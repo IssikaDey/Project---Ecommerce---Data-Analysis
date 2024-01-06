@@ -20,13 +20,23 @@ We will perform exploratory data analysis with python to get insight from the da
 **Motivation :**
 
 We have tried to answer the following Questions
-1.	How Many Booking Were Cancelled?
-2.	What is the booking ratio between Resort Hotel and City Hotel?
-3.	What is the percentage of booking for each year?
-4.	Which is the most busy month for hotel?
-5.	From which country most guest come?
-6.	How Long People Stay in the hotel?
-7.	Which was the most booked accommodation type (Single, Couple, Family)?
+1. General Trends:
+What is the current global trend in hotel bookings? Are there any noticeable patterns or shifts in demand over the past year? How has the hotel booking landscape evolved compared to previous years?
+
+2. Seasonal Variations:
+Are there specific seasons that witness a surge or decline in hotel bookings globally? How do holiday seasons impact hotel booking demand across different regions?
+
+3. Regional Insights:
+Which regions are experiencing the highest growth in hotel bookings? Are there any regions facing challenges or a decline in demand?
+
+4. Booking Platforms:
+What are the preferred online platforms for hotel bookings globally? Are there any emerging trends in how people book hotels online?
+
+5. Traveler Preferences:
+What are the key factors influencing traveler choices when booking a hotel? Do travelers prioritize specific amenities or services when making a booking?
+
+6. Technology Impact:
+How has technology, such as mobile apps or AI, affected the hotel booking industry? Are there any emerging technologies that are reshaping the way people book hotels?
 
 **Tools and Libraries Used :**
 
