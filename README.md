@@ -21,22 +21,29 @@ We will perform exploratory data analysis with python to get insight from the da
 
 We have tried to answer the following Questions
 1. General Trends:
-What is the current global trend in hotel bookings? Are there any noticeable patterns or shifts in demand over the past year? How has the hotel booking landscape evolved compared to previous years?
+What is the current global trend in hotel bookings?
+Are there any noticeable patterns or shifts in demand over the past year?
+How has the hotel booking landscape evolved compared to previous years?
 
 2. Seasonal Variations:
-Are there specific seasons that witness a surge or decline in hotel bookings globally? How do holiday seasons impact hotel booking demand across different regions?
+Are there specific seasons that witness a surge or decline in hotel bookings globally?
+How do holiday seasons impact hotel booking demand across different regions?
 
-3. Regional Insights:
-Which regions are experiencing the highest growth in hotel bookings? Are there any regions facing challenges or a decline in demand?
+4. Regional Insights:
+Which regions are experiencing the highest growth in hotel bookings?
+Are there any regions facing challenges or a decline in demand?
 
-4. Booking Platforms:
-What are the preferred online platforms for hotel bookings globally? Are there any emerging trends in how people book hotels online?
+5. Booking Platforms:
+What are the preferred online platforms for hotel bookings globally? \
+Are there any emerging trends in how people book hotels online?
 
-5. Traveler Preferences:
-What are the key factors influencing traveler choices when booking a hotel? Do travelers prioritize specific amenities or services when making a booking?
+6. Traveler Preferences:
+What are the key factors influencing traveler choices when booking a hotel?
+Do travelers prioritize specific amenities or services when making a booking?
 
-6. Technology Impact:
-How has technology, such as mobile apps or AI, affected the hotel booking industry? Are there any emerging technologies that are reshaping the way people book hotels?
+7. Technology Impact:
+How has technology, such as mobile apps or AI, affected the hotel booking industry?
+ Are there any emerging technologies that are reshaping the way people book hotels?
 
 **Tools and Libraries Used :**
 
