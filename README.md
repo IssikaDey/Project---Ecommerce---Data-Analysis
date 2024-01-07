@@ -17,9 +17,9 @@ We will perform exploratory data analysis with python to get insight from the da
 
 •	Acknowledgements
 
-**Motivation :**
+##**Motivation :**
 
-## **Insights**
+### **Insights**
 
 1. **General Trends:**
 
