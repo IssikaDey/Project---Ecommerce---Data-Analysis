@@ -1,4 +1,4 @@
-# Global-Hotel-Booking-Demand
+# **Global-Hotel-Booking-Demand**
 This data set contains booking information for a city hotel and a resort hotel and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things. All personally identifying information has from the data.
 We will perform exploratory data analysis with python to get insight from the data.
 
@@ -19,7 +19,7 @@ We will perform exploratory data analysis with python to get insight from the da
 
 **Motivation :**
 
-## Insights:
+## **Insights**
 
 1. **General Trends:**
 
@@ -70,14 +70,14 @@ We have used Python 3 to its following packages:
 3.	Seaborn
 4.	Sklearn
 
-## Files:
+## **Files:**
 
 This repository contains two files other than readme file
 
 Hotel Booking.ipynb: Jupyter Notebook file contains all the python code, documentation and visualization
 hotel_bookings.csv: Our dataset file
 
-Dataset contains following features:
+**Dataset contains following features:**
 
 1. hotel
 2. is_canceled
@@ -112,15 +112,15 @@ Dataset contains following features:
 31. reservation_status
 32. reservation_status_date
 
-## Result:
+## **Result:**
 
 ### We learned that
 
-## Dataset Information:
+## **Dataset Information:**
 
 Data was posted on Kaggle by Jesse Mostipak. It is available to download Here: https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
 
-## Acknowledgements
+## **Acknowledgements:**
 
 The data is originally from the article Hotel Booking Demand Datasets, written by Nuno Antonio, Ana Almeida, and Luis Nunes for Data in Brief, Volume 22, February 2019.
 
