@@ -113,3 +113,16 @@ Dataset contains following features:
 30. total_of_special_requests
 31. reservation_status
 32. reservation_status_date
+
+## Result:
+
+### We learned that
+
+## Dataset Information:
+
+Data was posted on Kaggle by Jesse Mostipak. It is available to download Here: https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
+
+## Acknowledgements
+
+The data is originally from the article Hotel Booking Demand Datasets, written by Nuno Antonio, Ana Almeida, and Luis Nunes for Data in Brief, Volume 22, February 2019.
+The data was downloaded and cleaned by **Issika Dey, Yagnasani Mukherjee and Sumi Paul.**
