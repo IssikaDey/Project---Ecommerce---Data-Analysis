@@ -47,8 +47,6 @@ We will perform exploratory data analysis with python to get insight from the da
    
     What are the preferred online platforms for hotel bookings globally?
 
-    Are there any emerging trends in how people book hotels online?
-
 6. **Traveler Preferences:**
 
     How Long People Stay in the hotel?
