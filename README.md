@@ -19,37 +19,49 @@ We will perform exploratory data analysis with python to get insight from the da
 
 **Motivation :**
 
-We have tried to answer the following Questions
-1. General Trends:
+## Insights:
 
-What is the current global trend in hotel bookings?
-Are there any noticeable patterns or shifts in demand over the past year?
-How has the hotel booking landscape evolved compared to previous years?
+1. **General Trends:**
 
-2. Seasonal Variations:
+    What is the current global trend in hotel bookings?
 
-Are there specific seasons that witness a surge or decline in hotel bookings globally?
-How do holiday seasons impact hotel booking demand across different regions?
+    Are there any noticeable patterns or shifts in demand over the past year?
 
-3. Regional Insights:
+2. **Seasonal Variations:**
 
-Which regions are experiencing the highest growth in hotel bookings?
-Are there any regions facing challenges or a decline in demand?
+    Are there specific seasons that witness a surge or decline in hotel bookings globally?
 
-4. Booking Platforms:
+    Which is the busiest month for hotel?
 
-What are the preferred online platforms for hotel bookings globally? \
-Are there any emerging trends in how people book hotels online?
+3. **Regional Insights:**
 
-5. Traveler Preferences:
+    From which country most guest come?
 
-What are the key factors influencing traveler choices when booking a hotel?
-Do travelers prioritize specific amenities or services when making a booking?
+    Are there any regions facing challenges or a decline in demand?
 
-6. Technology Impact:
+4. **Booking Platforms:**
 
-How has technology, such as mobile apps or AI, affected the hotel booking industry?
-Are there any emerging technologies that are reshaping the way people book hotels?
+    How Many Booking Were Cancelled?
+   
+    What is the percentage of booking for each year?
+   
+    What are the preferred online platforms for hotel bookings globally?
+
+    Are there any emerging trends in how people book hotels online?
+
+6. **Traveler Preferences:**
+
+    How Long People Stay in the hotel?
+
+    What are the key factors influencing traveler choices when booking a hotel?
+
+    Do travelers prioritize specific amenities or services when making a booking?
+
+7. **Technology Impact:**
+
+    How has technology, such as mobile apps or AI, affected the hotel booking industry?
+
+    Are there any emerging technologies that are reshaping the way people book hotels?
 
 **Tools and Libraries Used :**
 
@@ -59,5 +71,45 @@ We have used Python 3 to its following packages:
 2.	Matplotlib
 3.	Seaborn
 4.	Sklearn
-5.	pycountry
 
+## Files:
+
+This repository contains two files other than readme file
+
+Hotel Booking.ipynb: Jupyter Notebook file contains all the python code, documentation and visualization
+hotel_bookings.csv: Our dataset file
+
+Dataset contains following features:
+
+1. hotel
+2. is_canceled
+3. lead_time
+arrival_date_year
+arrival_date_month
+arrival_date_week_number
+arrival_date_day_of_month
+stays_in_weekend_nights
+stays_in_week_nights
+adults
+children
+babies
+meal
+country
+market_segment
+distribution_channel
+is_repeated_guest
+previous_cancellations
+previous_bookings_not_canceled
+reserved_room_type
+assigned_room_type
+booking_changes
+deposit_type
+agent
+company
+days_in_waiting_list
+customer_type
+adr
+required_car_parking_spaces
+total_of_special_requests
+reservation_status
+reservation_status_date
