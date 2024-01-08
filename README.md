@@ -55,7 +55,7 @@ We will perform exploratory data analysis with python to get insight from the da
 
     Are there any emerging technologies that are reshaping the way people book hotels?
 
-**Tools and Libraries Used :**
+## **Tools and Libraries Used :**
 
 We have used Python 3 to its following packages:
 
