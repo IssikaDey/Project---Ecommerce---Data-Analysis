@@ -25,11 +25,7 @@ We will perform exploratory data analysis with python to get insight from the da
 
     What is the current global trend in hotel bookings?
 
-    Are there any noticeable patterns or shifts in demand over the past year?
-
 2. **Seasonal Variations:**
-
-    Are there specific seasons that witness a surge or decline in hotel bookings globally?
 
     Which is the busiest month for hotel?
 
