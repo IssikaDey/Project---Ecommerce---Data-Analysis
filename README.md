@@ -11,8 +11,6 @@ We will perform exploratory data analysis with python to get insight from the da
 
 •	Files
 
-•	Result
-
 •	Dataset Information
 
 •	Acknowledgements
@@ -107,10 +105,6 @@ hotel_bookings.csv: Our dataset file
 30. total_of_special_requests
 31. reservation_status
 32. reservation_status_date
-
-## **Result:**
-
-### We learned that
 
 ## **Dataset Information:**
 
