@@ -5,4 +5,4 @@ Welcome to our E-commerce Data Analysis Project! In this initiative, we delve in
 
 # **Acknowledgements** :
 
-I would like to express my sincere gratitude to Python & SQL trainer, Mr. Suramya Biswas, and Anudeep Foundation for their invaluable support and guidance throughout this project.
+I would like to express my sincere gratitude to Python & SQL trainer, Mr. Suramya Biswas, and Anudip Foundation for their invaluable support and guidance throughout this project.
